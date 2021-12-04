@@ -22,8 +22,10 @@ If you are a developer, you can access our services by following method. (But, p
 ![a49bac145c85f914acec769a62d2433](https://user-images.githubusercontent.com/39406532/144711492-b0d0bfaf-a62c-457b-82aa-a8d76363151e.png)
 2. A basic test to see if the server is up and running.
 ![cc297ff003dae1376c5f9f5febf8925](https://user-images.githubusercontent.com/39406532/144711660-ba6823b8-79a9-49a6-b0dd-04c17f9ccedc.png)
-3. Upload your image via _input_label_ in the body and initialize the prediction to get the important **map_id** string. (Some options not designed for the occasion: the _styled_map_ option can be the same as input_label, and the _latitude_ and _longitude_ can default to 120, 30)
+3. Upload your image via _input_label_ in the body and initialize the prediction to get the important **map_id** string.
+(Some options not designed for the occasion: the _styled_map_ option can be the same as _input_label_, and the _latitude_ and _longitude_ can default to 120, 30)
 ![dea9bcb469ea774b48fa53f1dbb0e3b](https://user-images.githubusercontent.com/39406532/144711944-21bfa783-b59a-4298-befa-d1c2c32a077c.png)
 _(Take the crime rate prediction as an example. "delivery", "easy_life", "findeasy", and "mobike2" are the remaining endpoints.)_
-
+4.Send a request to the URL: {{baseurl7}}mlapi/**<map_id>**/map_run/ for prediction result.
+![773b3b4c0b815ee5fc7be6fdc07d0ba](https://user-images.githubusercontent.com/39406532/144712248-f72d6aed-caef-4309-9ffe-2f7825c12c30.png)
 
