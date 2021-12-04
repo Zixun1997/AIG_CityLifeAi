@@ -6,8 +6,9 @@
 
 # how to use the Test Website: 
 1. You can access our web application service using our most recent test address: http://www.citylifeai.com:7007
-2. When starting the service, keep the following in mind:
-  a. Make sure to open it in Chrome on your PC.
+2. Keep the following in mind while launching the service: make sure it's running in **Full Screen** in Chrome on your PC.
+_(We briefly suspend the service on the mobile phone through detecting the page aspect ratio, due to some adaption issues discovered in the phone.)_
+3. 
 
 
 # more about the frp version
