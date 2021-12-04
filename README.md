@@ -14,12 +14,16 @@ Because the GPU resources deployed on cloud servers were not economical enough i
 4. You can log-in with this Test Account: 13777458864; Password: zixun363837; Or enter any 11-digit number to create a new account.
 
 # more about the frp version of our website
-frp is a fast reverse proxy to help you expose a local server behind a NAT or firewall to the Internet. See how our frp version work: https://youtu.be/djdg2VrfazU
+Frp is a fast reverse proxy to help you expose a local server behind a NAT or firewall to the Internet. See how our frp version work: https://youtu.be/djdg2VrfazU
 
 # REST API
 If you are a developer, you can access our services by following method. (But, please make sure I don't go to bed and even close my laptop 🥱 ; Default URL _(baseurl7)_ for Your Developers' Requests: http://www.citylifeai.com:8883/ 
-1. you can still login with the Test Account.
+1. You can still login with the Test Account.
 ![a49bac145c85f914acec769a62d2433](https://user-images.githubusercontent.com/39406532/144711492-b0d0bfaf-a62c-457b-82aa-a8d76363151e.png)
-
+2. A basic test to see if the server is up and running.
+![cc297ff003dae1376c5f9f5febf8925](https://user-images.githubusercontent.com/39406532/144711660-ba6823b8-79a9-49a6-b0dd-04c17f9ccedc.png)
+3. Upload your image via _input_label_ in the body and initialize the prediction to get the important **map_id** string. (Some options not designed for the occasion: the _styled_map_ option can be the same as input_label, and the _latitude_ and _longitude_ can default to 120, 30)
+![dea9bcb469ea774b48fa53f1dbb0e3b](https://user-images.githubusercontent.com/39406532/144711944-21bfa783-b59a-4298-befa-d1c2c32a077c.png)
+_(Take the crime rate prediction as an example. "delivery", "easy_life", "findeasy", and "mobike2" are the remaining endpoints.)_
 
 
