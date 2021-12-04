@@ -26,6 +26,7 @@ If you are a developer, you can access our services by following method. (But, p
 (Some options not designed for the occasion: the _styled_map_ option can be the same as _input_label_, and the _latitude_ and _longitude_ can default to 120, 30)
 ![dea9bcb469ea774b48fa53f1dbb0e3b](https://user-images.githubusercontent.com/39406532/144711944-21bfa783-b59a-4298-befa-d1c2c32a077c.png)
 _(Take the crime rate prediction as an example. "delivery", "easy_life", "findeasy", and "mobike2" are the remaining endpoints.)_
+
 4.Send a request to the URL: {{baseurl7}}mlapi/**<map_id>**/map_run/ for prediction result.
 ![773b3b4c0b815ee5fc7be6fdc07d0ba](https://user-images.githubusercontent.com/39406532/144712248-f72d6aed-caef-4309-9ffe-2f7825c12c30.png)
 
