@@ -12,7 +12,4 @@
 Because the GPU resources deployed on cloud servers were not economical enough in the past, we temporarily deployed the trained neural network models locally, **i.e., on the back-end developer's laptop**. The back-end developer will provide predictive services to a public ip address via **frp** technology, which in turn will provide services to all other urban designers.
 
 # more about the frp version
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38c86dce-4985-4df4-a02c-efb515d2dbb9/Untitled.png)
-
-See the demonstration (version_frp): https://youtu.be/djdg2VrfazU
+frp is a fast reverse proxy to help you expose a local server behind a NAT or firewall to the Internet. See how the frp version work: https://youtu.be/djdg2VrfazU
