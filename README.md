@@ -17,7 +17,7 @@ Because the GPU resources deployed on cloud servers were not economical enough i
 Frp is a fast reverse proxy to help you expose a local server behind a NAT or firewall to the Internet. See the demonstration about how our frp version work: https://youtu.be/djdg2VrfazU
 
 # REST API
-If you are a developer, you can access our services by following method. (But, please make sure I don't go to bed and even close my laptop 🥱 ; Default URL _(baseurl7)_ for Your Developers' Requests: http://www.citylifeai.com:8883/ 
+If you are a developer, you can access our services by following method with Postman, or you can also send requests through coding. (But, please make sure I don't go to bed and even close my laptop 🥱 ; Default URL _(baseurl7)_ for Your Developers' Requests: http://www.citylifeai.com:8883/ 
 1. You can still login with the Test Account.
 ![a49bac145c85f914acec769a62d2433](https://user-images.githubusercontent.com/39406532/144711492-b0d0bfaf-a62c-457b-82aa-a8d76363151e.png)
 2. A basic test to see if the server is up and running.
