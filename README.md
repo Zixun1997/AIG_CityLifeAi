@@ -27,7 +27,6 @@ If you are a developer, you can access our services by following method. (But, p
 ![dea9bcb469ea774b48fa53f1dbb0e3b](https://user-images.githubusercontent.com/39406532/144711944-21bfa783-b59a-4298-befa-d1c2c32a077c.png)
 _(Take the crime rate prediction as an example. "delivery", "easy_life", "findeasy", and "mobike2" are the remaining endpoints.)_
 A instance for _input_label_:
-![c2b471d0a96790cc33b33a90db9483b](https://user-images.githubusercontent.com/39406532/144712607-47930a82-6791-4831-9b35-d21d147ee298.jpg)
 
 4. Send a request to the URL: _{{baseurl7}}mlapi/**<map_id>**/map_run/_ for prediction result. You will get a matrix translated from the hot map, and the pixel positions of the 3 points with the highest thermal values in the image.
 ![773b3b4c0b815ee5fc7be6fdc07d0ba](https://user-images.githubusercontent.com/39406532/144712248-f72d6aed-caef-4309-9ffe-2f7825c12c30.png)
