@@ -7,9 +7,12 @@
 # how to use the Test Website: 
 1. You can access our web application service using our most recent test address: http://www.citylifeai.com:7007
 2. We briefly suspend the service on the mobile phone through detecting the page aspect ratio, due to some adaption issues discovered in the phone recently. So, keep the following in mind while launching the service: make sure it's running in **Full Screen** in Chrome on your PC.
-3. If you can access the page, but not the internal services, such as registration, login, heat map prediction. Then please contact our backend developer(me😀) or our instructor via email: "huangzxarchitecture@zju.edu.cn" or "zhhao@design.upenn.edu".
+3. If you can access the page, but **not the internal services**, such as registration, login, heat map prediction. Then please **contact our backend developer** (ME😀) or our instructor via email: "huangzxarchitecture@zju.edu.cn" or "zhhao@design.upenn.edu".
 
+Because the GPU resources deployed on cloud servers were not economical enough in the past, we temporarily deployed the trained neural network models locally, **i.e., on the back-end developer's laptop**. The back-end developer will provide predictive services to a public ip address via **frp** technology, which in turn will provide services to all other urban designers.
 
 # more about the frp version
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38c86dce-4985-4df4-a02c-efb515d2dbb9/Untitled.png)
 
 See the demonstration (version_frp): https://youtu.be/djdg2VrfazU
