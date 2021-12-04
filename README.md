@@ -6,4 +6,7 @@
 * **Developer**_(Front-end, Interactive Design)_: Hang GAO
 * **Network Training**: Hao ZHENG, Jingyi HE, Df2021(50-Professional Group)
 
+
+# more about the frp version
+
 See the demonstration (version_frp): https://youtu.be/djdg2VrfazU
