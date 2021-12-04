@@ -5,8 +5,9 @@
 * **Network Training**: Hao ZHENG, Jingyi HE, Df2021(50-Professional Group)
 
 # how to use the Test Website: 
-* You can access our web application service through our latest test address: http://www.citylifeai.com:7007
-
+1. You can access our web application service using our most recent test address: http://www.citylifeai.com:7007
+2. When starting the service, keep the following in mind:
+  a. Make sure to open it in Chrome on your PC.
 
 
 # more about the frp version
