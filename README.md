@@ -1,4 +1,4 @@
-### AIG_CityLifeAi
+### AIG_CityLifeAi_Instructions
 * **Project Instructor:** Hao ZHENG
 * **Developer**_(Back-end, Image Processing, Data Crawling)_: Zixun HUANG
 * **Developer**_(Front-end, Interactive Design)_: Hang GAO
