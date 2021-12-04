@@ -14,7 +14,7 @@ Because the GPU resources deployed on cloud servers were not economical enough i
 4. You can log-in with this Test Account: 13777458864; Password: zixun363837; Or enter any 11-digit number to create a new account.
 
 # More about the frp version of our website
-Frp is a fast reverse proxy to help you expose a local server behind a NAT or firewall to the Internet. See how our frp version work: https://youtu.be/djdg2VrfazU
+Frp is a fast reverse proxy to help you expose a local server behind a NAT or firewall to the Internet. See the demonstration about how our frp version work: https://youtu.be/djdg2VrfazU
 
 # REST API
 If you are a developer, you can access our services by following method. (But, please make sure I don't go to bed and even close my laptop 🥱 ; Default URL _(baseurl7)_ for Your Developers' Requests: http://www.citylifeai.com:8883/ 
