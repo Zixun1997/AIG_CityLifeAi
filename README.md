@@ -11,7 +11,7 @@
 
 Because the GPU resources deployed on cloud servers were not economical enough in the past, we temporarily deployed the trained neural network models locally, i.e., on the back-end developer's laptop. The back-end developer will provide predictive services to a public ip address via **frp** technology, which in turn will provide services to all other urban designers.
 
-4. You can log-in with this **“ Test Account: 13777458864; Password: zixun363837 ”**; Or enter any 11-digit number to create a new account.
+4. You can log-in with this 😀 **“ Test Account: 13777458864; Password: zixun363837 ”** 😀; Or enter any 11-digit number to create a new account.
 
 # More about the frp version of our website
 Frp is a fast reverse proxy to help you expose a local server behind a NAT or firewall to the Internet. See the demonstration about how our frp version work: https://youtu.be/djdg2VrfazU
