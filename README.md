@@ -1,8 +1,8 @@
 ### AIG_CityLifeAi_Instructions
-* **Project Instructor:** Hao ZHENG
-* **Developer**_(Back-end, Neural Network Deploying, Image Processing, Data Crawling)_: Zixun HUANG
-* **Developer**_(Front-end, Interactive Design)_: Hang GAO
-* **Neural Network Training**: Hao ZHENG, Jingyi HE, Df2021(50-Professional Group)
+* **Project Instructor:** 😀 Hao ZHENG
+* **Developer**_(Back-end, Neural Network Deploying, Image Processing, Data Crawling)_: 😀 Zixun HUANG
+* **Developer**_(Front-end, Interactive Design)_: 😀 Hang GAO
+* **Neural Network Training**: 😀 Hao ZHENG, Jingyi HE, Df2021(50-Professional Group)
 
 # How to use the Test Website: 
 1. You can access our web application service using our most recent **Test Address**: http://www.citylifeai.com/
