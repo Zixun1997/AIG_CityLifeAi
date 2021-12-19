@@ -1,7 +1,7 @@
 ### AIG_CityLifeAi_Instructions
 * **Project Instructor:** 😀 Hao ZHENG
-* **Developer**_(Back-end, Neural Network Deploying, Image Processing, Data Crawling)_: 😀 Zixun HUANG
-* **Developer**_(Front-end, Interactive Design)_: 😀 Hang GAO
+* **Developer**_(Back-end Development, Cloud Computing Deployment, Image Processing, Data Crawling)_: 😀 Zixun HUANG
+* **Developer**_(Front-end Development, Interactive Design)_: 😀 Hang GAO
 * **Neural Network Training**: 😀 Hao ZHENG, Jingyi HE, Df2021(50-Professional Group)
 
 # How to use the Test Website: 
