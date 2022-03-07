@@ -1,4 +1,4 @@
-# 24-hour Active Currently
+# 24-hr Active Currently
 http://www.citylifeai.com/desktop/
 
 
